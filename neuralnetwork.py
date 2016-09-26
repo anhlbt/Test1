@@ -1,5 +1,5 @@
 import numpy as np
-
+#chahge something...
 
 def nonlin(x, deriv=False):
     if (deriv == True):
